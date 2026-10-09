@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use ProteinDelta, please cite it as below."
+title: "ProteinDelta: browser-based comparative structural and local fractal analysis of protein variants"
+type: software
+version: 4.0.0
+date-released: 2026-10-09
+doi: 10.5281/zenodo.23251768
+license: MIT
+repository-code: "https://github.com/camilagiraldo11/proteindelta"
+url: "https://proteindelta.vercel.app"
+authors:
+  - family-names: "Giraldo Rodríguez"
+    given-names: "María Camila"
+    orcid: "https://orcid.org/0009-0005-2616-5422"
+    affiliation: "Universidad del Valle"
+  - family-names: "Vélez-Varela"
+    given-names: "Patricia E."
+    orcid: "https://orcid.org/0000-0003-3470-8704"
+    affiliation: "Universidad del Cauca"
+  - family-names: "Moreno-Tovar"
+    given-names: "Pedro A."
+    orcid: "https://orcid.org/0000-0001-9154-7009"
+    affiliation: "Universidad del Valle"
+keywords:
+  - protein structure
+  - protein variants
+  - AlphaFold2
+  - ColabFold
+  - fractal dimension
+  - solvent-accessible surface area
+  - cancer-associated variants
